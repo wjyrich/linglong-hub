@@ -15,5 +15,6 @@ source:
   url: https://github.com/olegantonyan/mpz.git
   commit: 81285d398b9ea6870d8bfe1ad6f24002fa8a4190
   patch: patches/0001-install.patch
+
 build:
   kind: qmake
